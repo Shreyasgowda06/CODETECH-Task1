@@ -26,9 +26,12 @@ This is a simple, user-friendly to-do list web application developed using HTML,
 ## How to Use
 1. Open `index.html` in your browser.
 2. Type a task in the input field.
+
 3. Click "Add Task" to add it to the list.
 4. Click "Complete" to mark a task as done.
 5. Click "Delete" to remove a task from the list.
 
 ## License
 This project is open-source and free to use.
+![image](https://github.com/user-attachments/assets/673d67cc-1e9e-4565-95ba-30db909dd6dd)
+
